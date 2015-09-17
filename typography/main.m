@@ -2,7 +2,7 @@
 //  main.m
 //  typography
 //
-//  Created by Jose Mota Prado on 22/01/13.
+//  Created by Eleven Corporation on 22/01/13.
 //  Copyright (c) 2013 Jose Mota Prado. All rights reserved.
 //
 
